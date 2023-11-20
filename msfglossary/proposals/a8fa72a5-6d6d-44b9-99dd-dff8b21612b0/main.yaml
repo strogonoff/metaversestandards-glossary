@@ -1,11 +1,8 @@
 id: a8fa72a5-6d6d-44b9-99dd-dff8b21612b0
 timeStarted: 2023-11-20T09:18:18.596Z
-timeEdited: 2023-11-20T09:18:31.764Z
+timeEdited: 2023-11-20T09:18:34.574Z
 justification: test
 submittingStakeholderGitServerUsername: strogonoff
-items:
-  /concept/12a2b73e-428e-48c4-ac61-e8c06acadb2d.yaml:
-    type: amendment
-    amendmentType: invalidation
+items: {}
 state: draft
 registerVersion: '1.0'
